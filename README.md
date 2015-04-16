@@ -1,1 +1,1 @@
-Code for Udacity course - Javascript Testing
+Code from the Udacity course - Javascript Testing
